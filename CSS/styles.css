@@ -3,7 +3,6 @@
     position: relative;
     
 }
-
 html{
     scroll-behavior: smooth;
 }
@@ -121,11 +120,9 @@ html{
     background-color: #E4F9F5;
 }
 .icons{
-      HEIGHT: 30px;
-    width: 30px;
+    HEIGHT:30PX;
+    width: 30PX;
     margin-right: 30px;
-}
-    
     
 }
 #slideshow{
