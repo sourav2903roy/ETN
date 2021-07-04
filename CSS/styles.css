@@ -3,6 +3,10 @@
     position: relative;
     
 }
+
+html{
+    scroll-behavior: smooth;
+}
 .div1-div1{
     text-align: center;
 }
