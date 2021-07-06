@@ -1,5 +1,4 @@
 
-  
     html{
         scroll-behavior: smooth;
     }
@@ -57,12 +56,14 @@
 .place1{
      /* position: relative; */
      position: relative;
-     width:400px;
-     height: 400px;
+     width:300px;
+     height: 300px;
      
-     border: 1px solid #000;
+   
      margin-top: 20px;;
      
+    margin-right: 10px;
+
      margin-bottom: 30px;
      
     
@@ -70,10 +71,10 @@
 .place2{
    
     position: relative;
-    width:400px;
-    height: 400px;
+    width:300px;
+    height: 300px;
     
-    border: 1px solid #000;
+    
     margin-top: 20px;;
     
     margin-bottom: 30px;
