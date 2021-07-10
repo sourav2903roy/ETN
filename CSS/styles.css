@@ -1,9 +1,12 @@
 
+    
     html{
         scroll-behavior: smooth;
     }
 
-  
+    .brand-logo{
+        height: 30px; width: 30px;
+    }
 .container-fluid {
     width: 100%;
     padding-right: 0px;
